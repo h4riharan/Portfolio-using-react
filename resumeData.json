@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Hariharan",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack Developer by Day, and Freelancer by Night.",
+    "image": "h4ri.jpg",
+    "bio": "My name is hari, I'm a Full Stack ReactJS Developer. Currently I'm working as Freelancer ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "hariharanmh001@gmail.com",
+    "phone": "+91 9384436793",
+    "address": {
+      "street": "Arumbakkam Chennai",
+      "city": "Chennai",
+      "state": "Tamilnadu",
+      "zip": "600023"
+    },
+    "website": "https://h4riharan.github.io/Resume/",
+    "resumedownload": "https://h4riharan.github.io/Resume/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/h4riharan",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/its-h4ri/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/its_h4ri/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/h4riharan",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am tech enthusiast and familiar with React and I am always open to learn ",
+    "education": [
+      {
+        "school": "Adhiyamaan College Of Engineering",
+        "degree": "B.Tech (information Technology)",
+        "graduated": "2020",
+        "description": "Graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "Indium software",
+        "title": "Intern",
+        "years": "December 2019 - January 2020",
+        "description": "Building an web application with Reactjs and fetching data through APIs"
+      },
+      {
+        "company": "HK cyber solutions",
+        "title": "Freelance Web-Developer",
+        "years": "January 2019 - Present",
+        "description": "Building websites and maitaining them"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "UI",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Gif World",
+        "category": "A search engine for Giphy (Javascript, Html, Css)",
+        "image": "Giphy-world.png",
+        "url": "https://github.com/h4riharan/Gif-world"
+      },
+
+      {
+        "title": "Recipie React app",
+        "category": "Recipie Search app build with React (ReactJS, ExpressJS, NodeJS, Edamam API)",
+        "image": "Recipie-React.jpg",
+        "url": "https://github.com/h4riharan/React-Recipie-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [ 
+      {
+        "text": "Like the work and satisfied with his work",
+        "user": "Sridhar"
+      },
+      {
+        "text": "The way he responds and The time Dedication",
+        "user": "Raj cuddalore, Secure systems"
+      }
+    ]
+  }
+}
