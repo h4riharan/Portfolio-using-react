@@ -2,3 +2,7 @@
 * text=auto
 *.css linguist-detectable=false
 *.js linguist-detectable=true
+$ github-linguist --breakdown
+60%  Javascript
+20%  CSS
+20% HTML
